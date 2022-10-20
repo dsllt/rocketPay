@@ -1,7 +1,7 @@
-<h1 align="center"> Explorer Lab #01 </h1>
+<h1 align="center"> RocketPay </h1>
 
 <p align="center">
-Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
+Projeto desenvolvido duranto o evento Rocket Lab 01 promovido pela Rocketseat.
 </p>
 
 <p align="center">
