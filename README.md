@@ -1,7 +1,7 @@
 <h1 align="center"> RocketPay </h1>
 
 <p align="center">
-Projeto desenvolvido duranto o evento Rocket Lab 01 promovido pela Rocketseat.
+Projeto desenvolvido durante o evento Rocket Lab 01 promovido pela Rocketseat.
 </p>
 
 <p align="center">
